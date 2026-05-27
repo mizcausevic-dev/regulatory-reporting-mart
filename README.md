@@ -42,3 +42,7 @@ python scripts\smoke_check.py
 Kinetic Gain Embedded tie-back:
 
 This repo proves Kinetic Gain can ship warehouse-style operator reporting, not only app shells. SQL models, blocker counts, deadline pressure, and evidence posture stay visible in one mart-driven surface that buyers and recruiters can actually inspect.
+
+---
+
+Part of the [Kinetic Gain Protocol Suite](https://suite.kineticgain.com/) operator portfolio · apex: [kineticgain.com](https://kineticgain.com) · live: [reporting.kineticgain.com](https://reporting.kineticgain.com/)
